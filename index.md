@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Long Do.
 
-Maybe say a some things about yourself.
+I am currently a freshman at the University of Memphis, majoring in Biology.
 
-Or maybe what you plan to blog about.
+This is my blog, focusing on AI and Big Data in Cancer Biology.
