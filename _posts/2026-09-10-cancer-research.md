@@ -1,7 +1,7 @@
 ## Research on Kidney Cancer
 
 For my cancer research, I wanted to focus on kidney cancer. At its core, kidney cancer occurs when the cells in the kidneys grow and divide at an unpredictable and rapid pace, which leads to these abnormal cells building up instead of dying; as a result of this buildup, a tumor forms.
-<img width="852" height="443" alt="Kidney-stages" src="https://github.com/user-attachments/assets/4e0115fa-6374-4728-8c4e-8df5d34ff25b" />
+
 <img width="214" height="235" alt="kidney cancer" src="https://github.com/user-attachments/assets/5b6d6746-4a60-4a45-8bca-db5982f190b7" />
 
 # Frequency of Kidney Cancer
@@ -23,6 +23,8 @@ At the current moment, the development of kidney cancer is unclear. However, the
 For kidney cancer, the TNM staging system is used. The T stands for the tumor and its size. In this area, there are 4 stages, ranging from T1 to T4. As one stage moves to another stage, the size of the tumor in the kidney increases. After the T stage, there is the N stage, standing for the lymph nodes and whether the cancer has spread to them. The N stage is split into N0 and N1, with N0 indicating no cancer cells in the nodes, while N1 indicates cancer cells are present. Lastly, the M stage stands for other parts of the body that the kidney cancer has spread to, with it having M0 and M1 as well. M0 indicates that it has not spread to other parts of the body, while M1 indicates that it has. 
 
 Besides the TNM staging system, it can be numeric as well, ranging from 1-4, with 1 being the earliest and 4 the most advanced. 
+
+![Stages of kidney cancer](<img width="852" height="443" alt="Kidney-stages" src="https://github.com/user-attachments/assets/4e0115fa-6374-4728-8c4e-8df5d34ff25b" />)
 
 # Treatment
 
