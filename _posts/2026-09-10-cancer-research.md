@@ -1,6 +1,8 @@
 ## Research on Kidney Cancer
 
-For my cancer research, I wanted to focus my research on kidney cancer. At its core, kidney cancer occurs when the cells in the kidneys grow and divide at an unpredictable and rapid pace, which leads to these abnormal cells building up instead of dying. As a result of this buildup, a tumor forms.
+For my cancer research, I wanted to focus on kidney cancer. At its core, kidney cancer occurs when the cells in the kidneys grow and divide at an unpredictable and rapid pace, which leads to these abnormal cells building up instead of dying; as a result of this buildup, a tumor forms.
+<img width="852" height="443" alt="Kidney-stages" src="https://github.com/user-attachments/assets/4e0115fa-6374-4728-8c4e-8df5d34ff25b" />
+<img width="214" height="235" alt="kidney cancer" src="https://github.com/user-attachments/assets/5b6d6746-4a60-4a45-8bca-db5982f190b7" />
 
 # Frequency of Kidney Cancer
 
