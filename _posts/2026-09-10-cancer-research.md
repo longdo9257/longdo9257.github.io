@@ -34,7 +34,7 @@ The treatment for kidney cancer includes nephrectomy, cryotherapy, microwave abl
 
 It is estimated that those with kidney cancer, about 79.2% survives and can withstand the effects after 5 years. Age plays a big role in this statistic, as the younger the age, under 40, the survival rate is roughly 88% to 93%, but above 40, the percentage slowly decreases to around 61%. 
 
-## Sources
+#### Sources
 * [Cancer Research UK - TNM Stages of Kidney Cancer](https://www.cancerresearchuk.org/about-cancer/kidney-cancer/stages-types-grades/tnm)
 * [Mayo Clinic - Kidney Cancer Overview](https://www.mayoclinic.org/diseases-conditions/kidney-cancer/symptoms-causes/syc-20352664)
 * [National Cancer Institute - Kidney Cancer Information](https://www.cancer.gov/types/kidney)
