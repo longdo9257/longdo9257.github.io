@@ -24,7 +24,7 @@ For kidney cancer, the TNM staging system is used. The T stands for the tumor an
 
 Besides the TNM staging system, it can be numeric as well, ranging from 1-4, with 1 being the earliest and 4 the most advanced. 
 
-![Stages of kidney cancer](<img width="852" height="443" alt="Kidney-stages" src="https://github.com/user-attachments/assets/4e0115fa-6374-4728-8c4e-8df5d34ff25b" />)
+<img width="852" height="443" alt="Kidney-stages" src="https://github.com/user-attachments/assets/4e0115fa-6374-4728-8c4e-8df5d34ff25b" />
 
 # Treatment
 
