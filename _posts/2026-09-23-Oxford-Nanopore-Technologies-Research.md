@@ -22,8 +22,11 @@ Oxford Nanopore Technologies is primarily focused on developing molecular sensin
 
 Oxford Nanopore Technologies is projected to continue growing and expanding, with expected revenue growth of over 30%. They are also expected to make their sequencing faster, label-free, and more accessible in the future.
 
+#### Sources
+* [Oxford Nanopore Technologies - About Us](https://nanoporetech.com/about)
+* [Oxford University Innovation - Gene sequencing: Oxford Nanopore Technologies] (https://innovation.ox.ac.uk/case-study/gene-sequencing-oxford-nanopore-technologies?utm_source=gemini#:~:text=Oxford%20Nanopore%20Technologies%20is%20developing%20molecular%20sensing,Bayley's%20group%20at%20Oxford's%20Department%20of%20Chemistry.)
 
-https://innovation.ox.ac.uk/case-study/gene-sequencing-oxford-nanopore-technologies?utm_source=gemini#:~:text=Oxford%20Nanopore%20Technologies%20is%20developing%20molecular%20sensing,Bayley's%20group%20at%20Oxford's%20Department%20of%20Chemistry.
+  
 
-https://nanoporetech.com/about/history
+
 
