@@ -10,7 +10,9 @@ Our genome does not exactly fully define us. A genome has about 3 billion base p
 This variation can range from different hair colors due to a gene called MC1R to risks of different types of diseases. If this were the only component to take into consideration in answering the question, then yes, the genome would define us. 
 However, human life is not linear; our surroundings, environment, and upbringing are all things that should be considered as well. All of these things contribute to shaping our lives, how we act, talk, and think. Two people could share the same physical traits, but one might have grown up in a wealthy family, while the other in a poor family, and this causes a divide in how they process things and have different perspectives. Their upbringing led to different lives. This creates distinctive personalities that each individual person has, and that is what mainly defines our identity. 
 
-### Sources
-https://www.genomemedical.com/genetics-care/what-is-a-genome/
-https://www.genome.gov/genetics-glossary/Genome
-https://www.sciencenewstoday.org/what-makes-your-dna-uniquely-you
+#### Sources
+* [National Human Genome Research Institute](https://www.genome.gov/genetics-glossary/Genome
+)
+* [Genome Medical - What is a Genome?](https://www.genomemedical.com/genetics-care/what-is-a-genome/)
+* [Science News Today - What Makes Your DNA Uniquely You?](https://www.sciencenewstoday.org/what-makes-your-dna-uniquely-you)
+
